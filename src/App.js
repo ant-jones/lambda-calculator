@@ -1,6 +1,8 @@
 import React from "react";
 import "./App.css";
 // STEP 4 - import the button and display components
+import ButtonComponents from "./components/ButtonComponents";
+import Display from "./components/DisplayComponents/Display";
 // Don't forget to import any extra css/scss files you build into the correct component
 
 // Logo has already been provided for you. Do the same for the remaining components
