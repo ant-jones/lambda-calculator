@@ -14,19 +14,9 @@ import Logo from "./components/DisplayComponents/Logo";
 function App() {
   
    //STEP 5 - After you get the components displaying using the provided data file, write your state hooks here.
- /*const [number, setNumber] = useState()
-  const [operators, setOperators] = useState()
-  const [specials, setSpecials] = useState()
- console.log(number)
- console.log(setNumber)
- console.log(operators)
- console.log(setOperators)
- console.log(specials)
- console.log(setSpecials)*/
+  
   // Once the state hooks are in place write some functions to hold data in state and update that data depending on what it needs to be doing
-  //onClick = {() => setNumber(number)}
-  //onClick = {() => setOperators(operators)}
-  //onClick = {() => setSpecials(specials)}
+ 
   // Your functions should accept a parameter of the the item data being displayed to the DOM (ie - should recieve 5 if the user clicks on
   // the "5" button, or the operator if they click one of those buttons) and then call your setter function to update state.
   // Don't forget to pass the functions (and any additional data needed) to the components as props
